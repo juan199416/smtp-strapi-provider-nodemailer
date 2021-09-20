@@ -1,0 +1,1 @@
+# smtp-strapi-provider-nodemailer
